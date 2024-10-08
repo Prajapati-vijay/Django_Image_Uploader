@@ -23,7 +23,7 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/image-uploader.git
+   git clone https://github.com/Prajapati-vijay/Django_Image_Uploader.git
    cd image-uploader
    ```
 2. **Create a Virtual Environment (optional but recommended)**:
